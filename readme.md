@@ -15,6 +15,8 @@ This project analyzes quarterly financial data from 150 U.S. companies across va
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ## Folder Structure
